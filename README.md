@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @saoduy399 just call me Duy.
+- 👀 I’m interested in coding obiviously and fun project.
+- 🌱 I’m currently learning JavaScript and PHP.
+- 💞️ I’m looking to collaborate on anywhere.
+- 📫 How to reach me: at tddnp565@gmail.comm.
