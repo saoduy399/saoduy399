@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @saoduy399 just call me Duy.
+- 👋 Hi, I’m @saoduy399 just call me Jeff.
 - 👀 I’m interested in coding obiviously and fun project.
 - 🌱 I’m currently learning JavaScript and PHP.
 - 💞️ I’m looking to collaborate on anywhere.
